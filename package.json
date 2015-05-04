@@ -1,0 +1,17 @@
+{
+  "name": "expose-node",
+  "version": "0.0.0",
+  "description": "Expose the server side node api to connected clients over dnode connections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Shaw",
+  "license": "ISC",
+  "dependencies": {
+    "dnode": "^1.2.0",
+    "shoe": "0.0.15",
+    "uuid": "^2.0.1",
+    "xtend": "^4.0.0"
+  }
+}
